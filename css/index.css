@@ -48,7 +48,7 @@
 		background-position: bottom;
 		background-attachment: fixed;
         background-size: cover;
-        filter: grayscale(100%);
+        filter: grayscale(90%);
 	}
 }
 
